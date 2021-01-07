@@ -36,13 +36,13 @@ body{
 }
 
 .card-title{
-    color: black;
+    color: whitesmoke;
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .card-text{
-    color: rgb(27, 27, 27);
+    color: whitesmoke;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
 }
